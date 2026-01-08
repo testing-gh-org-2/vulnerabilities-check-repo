@@ -1,0 +1,22 @@
+{
+  "name": "vulnerable-nodejs-app",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable Node.js application for security testing",
+  "main": "vulnerable-app.js",
+  "scripts": {
+    "start": "node vulnerable-app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "testing",
+    "vulnerable"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "node-serialize": "^0.0.4"
+  }
+}
