@@ -15,9 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1",
-    "ajv": "6.12.2",
-    "through2": "2.0.5",
-    "lodash": "^4.17.4"
+    "ajv": "6.12.2"
   }
 }
