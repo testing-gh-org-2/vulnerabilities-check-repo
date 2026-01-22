@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1",
-    "xml2js": "0.4.23"
+    "express": "4.17.1"
   }
 }
